@@ -1,4 +1,4 @@
-# 🏥 Health Companion
+#  Health Companion
 
 A full-stack healthcare management application that connects patients, doctors, and administrators in a unified platform. This application enables seamless appointment booking, medical record management, and health tracking.
 
@@ -281,7 +281,7 @@ This project is licensed under the ISC License - see the LICENSE file for detail
 
 ## 📞 Support
 
-For support, email nikhil.tiwari@example.com or open an issue on GitHub.
+For support, email nikhilt6395@gmail.com or open an issue on GitHub.
 
 ## 👨‍💻 Author
 
